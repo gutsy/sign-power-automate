@@ -6,7 +6,9 @@ To install:
 - Click Import
 - Select zip file
 
-After uploading, you may need to set up the connections to Sign, Sharepoint, etc if you haven't already. 
+During installation you will need to choose your connections to Sign, Sharepoint, etc. 
 
 Flows included:
 
+- Save Completed Agreement to Sharepoint
+- Send New Agreement When A File Is Uploaded to Sharepoint
