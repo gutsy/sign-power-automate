@@ -12,3 +12,6 @@ Flows included:
 
 - Save Completed Agreement to Sharepoint
 - Send New Agreement When A File Is Uploaded to Sharepoint
+- Send Agreement via HTTP Call
+- Send Custom Email (replaces standard Sign email)
+- Save Completed Agreement to Sharepoint, Docs Seperated 
